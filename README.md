@@ -4,7 +4,16 @@ A cloud-hosted Discord bot for tracking crop growth timers in Heartopia.
 
 Built with Python and deployed on an Ubuntu virtual machine hosted on Microsoft Azure using systemd services for persistent uptime.
 
----
+## Screenshots
+
+### Discord Embed Interface
+![Discord Embed](Project_Screenshots/discord_embed.png)
+
+### Azure Linux Service Deployment
+![Azure Service](Project_Screenshots/azure_systemd_service.png)
+
+### Discord Notification Example
+![DM Notification](Project_Screenshots/discord_dm_notification.png)
 
 ## Features
 
