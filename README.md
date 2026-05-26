@@ -7,13 +7,13 @@ Built with Python and deployed on an Ubuntu virtual machine hosted on Microsoft 
 ## Screenshots
 
 ### Discord Embed Interface
-![Discord Embed](Project_Screenshots/discord_embed.png)
+![Discord Embed](Project_Screenshots/cropbot_embedd.png)
 
 ### Azure Linux Service Deployment
-![Azure Service](Project_Screenshots/azure_systemd_service.png)
+![Azure Service](Project_Screenshots/cropbot_service_status.png)
 
 ### Discord Notification Example
-![DM Notification](Project_Screenshots/discord_dm_notification.png)
+![Harvest Notification](Project_Screenshots/cropbot_harvest_notification.png)
 
 ## Features
 
